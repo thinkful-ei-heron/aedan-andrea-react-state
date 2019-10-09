@@ -1,4 +1,5 @@
 import React from 'react';
+import './Accordion.css';
 
 export default class Accordion extends React.Component {
 
@@ -20,7 +21,6 @@ export default class Accordion extends React.Component {
 
                     </li>
                 </ul>
-                
             )
         } else{
             let sectionArray = this.props.sections.map((item, index) => {

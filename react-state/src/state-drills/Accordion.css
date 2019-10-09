@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(34, 34, 34);
+}
+
+ul {
+    list-style-type: none;
+    padding:0;
+    width: 50%;
+    margin: 50px auto;
+}
+
+button {
+    width: 100%;
+    line-height: 50px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    background-color: rgb(56, 55, 55);
+    color: white;
+    border:1px solid rgb(3, 216, 181);
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color:white;
+}
